@@ -1,0 +1,6 @@
+---
+title: "Learning to merge"
+author: "Bilguun Boldbaatar"
+format: html
+editor: visual
+---
